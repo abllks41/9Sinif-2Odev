@@ -17,7 +17,7 @@ Birinci ödevde kendi deponuz içinde bir depo oluşturdunuz ve bu deponun için
 Aşağıdak sorular cevaplayın:
 
 a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde noktaları birleştirirken kesiksiz tek bir doğru ile birleştirin.  Noktalar çizdiğiniz doğruya olabildiğince yakın olsun. Çizdiğiniz doğru noktaları ortalasın! Ölçümümüzde hata olacağından bazı noktalar o doğru dışında kalacaktır. Önemli olan o noktaları yaklaşık olarak ortalayan bir doğru çizmek.) Ne dediğimi daha iyi anlamak için başka bir [videoyu](https://www.youtube.com/watch?v=s0YMDXf-2SI) seyredebilirsiniz. 
-**Cevap:** 22,2
+**Cevap:** 22,2 N/m
 
 b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve bilgisayar ile nasıl grafik çizildiğini anlayın. Bilgisayar kendi grafiğini çizerken ileri düzeyde matematik hesaplamalar yapıyor ve en iyi doğruyu çiziyor (Sizin bunu bilmenize gerek yok!)  Bilgisayarla eğim bulmak için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
 **Cevap:** y= 200/9x + 9/8
@@ -34,7 +34,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 **Cevap**: (Soldaki), (Ortadaki), (Sağdaki) 
 * **Cevap**: sağdaki
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken deney ölçümündeki değerler kullanılmaz.  Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
-**Cevap**:
+**Cevap**: -766,66 N/m
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
